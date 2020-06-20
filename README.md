@@ -7,4 +7,4 @@ This is a command line interface for DnD finances.
 
 To use, drag the pyhton script into any empty file you want to be the main directory.
 
-For it to work you need python installed.
+For it to work you need python installed. You can download it here: https://www.python.org/
