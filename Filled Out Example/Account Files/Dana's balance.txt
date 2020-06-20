@@ -1,0 +1,6 @@
+Dana's monetary value:
+	- 68 in platinum
+	- 1560 in gold
+	- 2 in electrum
+	- 36 in silver
+	- 12 in copper

@@ -1,0 +1,6 @@
+Group Funds's monetary value:
+	- 110 in platinum
+	- 488 in gold
+	- 13 in electrum
+	- 359 in silver
+	- 349 in copper

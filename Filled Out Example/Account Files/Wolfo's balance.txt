@@ -1,0 +1,6 @@
+Wolfo's monetary value:
+	- 0 in platinum
+	- 1087 in gold
+	- 0 in electrum
+	- 688 in silver
+	- 380 in copper

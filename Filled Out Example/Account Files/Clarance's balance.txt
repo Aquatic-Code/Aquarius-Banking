@@ -1,0 +1,6 @@
+Clarance's monetary value:
+	- 0 in platinum
+	- 383 in gold
+	- 6 in electrum
+	- 0 in silver
+	- 0 in copper

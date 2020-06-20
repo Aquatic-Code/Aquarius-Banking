@@ -1,0 +1,6 @@
+Hide's monetary value:
+	- 0 in platinum
+	- 1 in gold
+	- 0 in electrum
+	- 11 in silver
+	- 171 in copper

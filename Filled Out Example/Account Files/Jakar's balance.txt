@@ -1,0 +1,6 @@
+Jakar's monetary value:
+	- 54 in platinum
+	- 117 in gold
+	- 1 in electrum
+	- 92 in silver
+	- 169 in copper

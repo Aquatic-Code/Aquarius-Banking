@@ -1,0 +1,6 @@
+Percival's monetary value:
+	- 97 in platinum
+	- 3 in gold
+	- 0 in electrum
+	- 0 in silver
+	- 0 in copper
